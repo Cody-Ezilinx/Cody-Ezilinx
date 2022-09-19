@@ -1,0 +1,2 @@
+- I'm Cody, from Ezilinx Pty Ltd.
+- I am currently working for Ezilinx as a Full Stack PHP Developer, integrating various trechnologies with our expanding platform.
